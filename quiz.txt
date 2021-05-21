@@ -1,0 +1,50 @@
+¿Quién descubrió la gravedad?;A)GALILEO GALILEI B)ISAAC NEWTON C)ARQUÍMIDES;B
+¿Quién descubrió América?;A)CRISTOBAL COLÓN B)HERNÁN CORTÉS C)MAXIMILINO DE ABSBURGO;A
+¿Cuál es la fórmula de la energía?;A)c^2=a^2+b^2 B)F=m*a C)E=mc^2;C
+En la película “El libro de la Selva”¿Cómo se llama la pantera que acompaña a Mowgli?;A)BAGEERA B)SALEM C)NEGRA;A
+¿Cuántos colores tiene el arco iris?;A)8 B)6 C)7;C
+Un triángulo isosceles tiene:;A)3 LADOS IGUALES B)2 LADOS IGUALES C)TODOS LOS LADOS SON DIFERENTES;B
+¿Cuál es la fórmula del área de un circulo?;A)2*pi*r B)pi*r^2 C)r^2;B
+Las palabras esdrújulas tienen acento en:;A)ANTEPENÚLTIMA SÍLABA B)ÚLTIMA SÍLABA C)PENÚLTIMA SÍLABA;C
+El caballero Seiya porta la armadura de:;A)PEGASO B)UNICORNIO C)HIPOCAMPO;A
+Windows es a Bill Gates como IOS es a:;A)BILL WOZNIAK B)STEVE JOBS C)TOM MORELLO;B
+Canción de QUEEN:;A)FAT BOTTOM GIRLS B)PAINTED BLACK C)I WAS MADE FOR LOVING YOU;A
+Número de caras de un cubo:;A)12 B)9 C)6;C
+¿En qué año terminó la segunda guerra mundial?;A)1940 B)1945 C)1944;B
+Nombre de uno de los presidentes de México;A)BENITO JUAREZ B)MIGUEL HIDALGO C)ALLENDE;A
+En Star Wars ¿Quién entrenó a Obi Wan Kenobi?;A)QUI GON JIN B)YODA C)LUKE SKYWALKER;A
+Compositor famosos por su sordera:;A)MOZART B)BEETHOVEN C)BAG;B
+La segunda Ley de Newton se expresa como:;A)P=F/A B)T=F*d C)F=m*a;C
+Fórmula química del agua;A)H B)Na C)H20;C
+¿Cuál no es un gas noble?;A)HELIO B)NEON C)HIDRÓGRENO;C
+¿Cuál albums es de Pink Floyd?;A)IMMORTALIZED B)ANOTHER BRICK IN THE WALL C)A NIGHT AT THE OPERA;B
+X centímetros equivalen a una pulgada;A)2.3 B)2.54 C)3;B
+¿Cómo se llama el acompañante de Don Quijote?;A)ADOLFO LOPEZ B)SANCHO PANZA C)JAIME;B
+Una lustro equivale a X años:;A)50 B)10 C)5;
+Fórmula química del sodio:;A)Na B)H C)Cl;A
+Nombre verdadero de Freddie Mercury;A)SALIM ABBA B)MOHAMED ALÍ C)FARRUK BULSARA;C
+¿Quién descubrió el radio?;A)PIER CURIE B)MARIE CURIE C)NIEL ARMSTRONG;B
+Fórmula del trabajo en el SI:;A)JOULE B)WATT C)VOLTS;A
+Fórmula de la Presión en el SI:;A)PASCAL B)FARAD C)COULOM;A
+¿Cuál de los siguiente elementos es radioactivo?;A)PLUTONIO B)OXIGENO C)HIDRÓGENO;A
+Energía debida a la posición:; A)POTENCIAL B)CINÈTICA C)ELÉCTRICA;A
+Energía debida al movimiento:; A)TÉRMICA B)CINÈTICA C)POTENCIAL;B
+¿Quién porta la armadura dorada de Capricornio?;A)SAGA B)AIOROS C)SHURA;C
+Fórmula de la velocidad angular:;A)w=a*b B)w=r*h C)w=v*r;C
+360º equivalen a:;A)pi radianes B)2pi radianes C)pi/2 radianes;B
+Unidad de la potencia eléctrica en el SI:;A)JOULE B)WATT C)AMPERE;B
+Fuerza ejercida por un resorte:;A)F=m*I B)F=k*x C)F=m*a;B
+Fórmula de la densidad:;A)d=m*v B)d=v/m C)d=m/v;C
+Es la relación entre la energía suministrada y la energía entregada por el sistema;A)CABALLOS DE FUERZA B)VOLTAGE C)EFICIENCIA;C
+Hueso más largo del cuerpo humano;A)TIBIA B)HOMÓPLATO C)FEMUR;C
+Unidad de la capacitancia;A)FARAD B)HENRY C)OHMS;A
+1 TB equivale a:;A)1024 MB B)1024 GB C)1024 KB;B
+Unidad de la diferencia de potencial:;A)HENRY B)VOLTS C)OHMS;B
+Derivada de sen(x);A)cos(x) B)-cos(x) C)tan(x);A
+¿Quién escribió el libro “Mi lucha”?;A)ADOLF HITLER B)GARCÍA MARQUEZ C)NIETZCHE;A
+¿Cuál de las siguientes canciones NO es de Rammstein?;A)DU HAST B)FÜR IMMER C)SPIELUHR;B
+¿Quién canta la canción “I just called to say I love you”?;A)JHON LENNON B)STEVIE WONDER C)FR. DAVID;B
+Nombre de uno de los hijos de Loki, dios de en la mitología nórdica;A)VALKIRYA B)ESEO C)FENRIR;C
+Odin, padre de los dioses, está destinado a morir en:;A)OCASO B)APOCALIPSIS C)RAGNAROK;C
+Nombre de la lanza que perforó la costilla de Cristo;A)VALKIRYA B)EDENTI C)LONGINUIS;C
+Padre del dios Zeus;A)KRONOS B)URANO C)JUPITER;A
